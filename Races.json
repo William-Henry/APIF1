@@ -337,34 +337,34 @@
           "time": "13:10:00Z"
         },
             {
-            "Team":"Alfa Romeo Racing",
+            "Team":"Alfa Romeo Racing"
             },
             {
-            "Team":"Scuderia Ferrari",
+            "Team":"Scuderia Ferrari"
             },
             {
-            "Team":"Haas F1 Team",
+            "Team":"Haas F1 Team"
             },
             {
-            "Team":"McLaren",
+            "Team":"McLaren"
             },
             {
-            "Team":"Mercedes",
+            "Team":"Mercedes"
             },
             {
-            "Team":"Racing Point",
+            "Team":"Racing Point"
             },
             {
-            "Team":"Red Bull Racing",
+            "Team":"Red Bull Racing"
             },
             {
-            "Team":"Renault F1 Team",
+            "Team":"Renault F1 Team"
             },
             {
-            "Team":"Toro Rosso",
+            "Team":"Toro Rosso"
             },
             {
-            "Team":"Williams",
+            "Team":"Williams"
             }
       ]
     }
