@@ -335,7 +335,37 @@
               "country": "UAE",
           "date": "2019-12-01",
           "time": "13:10:00Z"
-        }
+        },
+            {
+            "Team":"Alfa Romeo Racing",
+            },
+            {
+            "Team":"Scuderia Ferrari",
+            },
+            {
+            "Team":"Haas F1 Team",
+            },
+            {
+            "Team":"McLaren",
+            },
+            {
+            "Team":"Mercedes",
+            },
+            {
+            "Team":"Racing Point",
+            },
+            {
+            "Team":"Red Bull Racing",
+            },
+            {
+            "Team":"Renault F1 Team",
+            },
+            {
+            "Team":"Toro Rosso",
+            },
+            {
+            "Team":"Williams",
+            }
       ]
     }
  
