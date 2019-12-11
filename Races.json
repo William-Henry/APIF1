@@ -335,8 +335,10 @@
               "country": "UAE",
           "date": "2019-12-01",
           "time": "13:10:00Z"
-        },
-            {
+        }
+      ],
+      "members":[
+      {
             "Team":"Alfa Romeo Racing"
             },
             {
