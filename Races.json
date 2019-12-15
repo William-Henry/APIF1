@@ -339,34 +339,34 @@
       ],
       "members":[
       {
-            "Team":"Alfa Romeo Racing"
+            "team":"Alfa Romeo Racing"
             },
             {
-            "Team":"Scuderia Ferrari"
+            "team":"Scuderia Ferrari"
             },
             {
-            "Team":"Haas F1 Team"
+            "team":"Haas F1 Team"
             },
             {
-            "Team":"McLaren"
+            "team":"McLaren"
             },
             {
-            "Team":"Mercedes"
+            "team":"Mercedes"
             },
             {
-            "Team":"Racing Point"
+            "team":"Racing Point"
             },
             {
-            "Team":"Red Bull Racing"
+            "team":"Red Bull Racing"
             },
             {
-            "Team":"Renault F1 Team"
+            "team":"Renault F1 Team"
             },
             {
-            "Team":"Toro Rosso"
+            "team":"Toro Rosso"
             },
             {
-            "Team":"Williams"
+            "team":"Williams"
             }
       ]
     }
