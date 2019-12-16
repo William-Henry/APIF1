@@ -339,34 +339,44 @@
       ],
       "members":[
       {
-            "team":"Alfa Romeo Racing"
+            "team":"Alfa Romeo Racing",
+            "logo":"https://www.alfaromeo.ch/content/dam/alfaromeo/ch/news/600x700_AR_Rancing.jpg"
             },
             {
-            "team":"Scuderia Ferrari"
+            "team":"Scuderia Ferrari",
+            "logo":"https://www.trzcacak.rs/myfile/detail/59-599169_scuderia-ferrari-high-resolution-ferrari-logo.png"
             },
             {
-            "team":"Haas F1 Team"
+            "team":"Haas F1 Team",
+            "logo":"https://aurupteur.com/wp-content/uploads/2019/10/haas-2019.jpg"
             },
             {
-            "team":"McLaren"
+            "team":"McLaren",
+            "logo":"https://i.wheelsage.org/pictures/mclaren/autowp.ru_mclaren_logo_2.jpg"
             },
             {
-            "team":"Mercedes"
+            "team":"Mercedes",
+            "logo":"https://www.formula1.com/content/fom-website/en/teams/Mercedes/_jcr_content/logo.img.jpg/1486740144183.jpg"
             },
             {
-            "team":"Racing Point"
+            "team":"Racing Point",
+            "logo":"https://laformulemagiquecom.files.wordpress.com/2019/03/1550251352844.png?w=300&h=143"
             },
             {
-            "team":"Red Bull Racing"
+            "team":"Red Bull Racing",
+            "logo":"https://logos-download.com/wp-content/uploads/2016/06/Red_Bull_Racing_logo_Formula_One_Team.png"
             },
             {
-            "team":"Renault F1 Team"
+            "team":"Renault F1 Team",
+            "logo":"http://www.logo-designer.co/wp-content/uploads/2018/12/2019-Renault-F1-Team-new-logo-design.png"
             },
             {
-            "team":"Toro Rosso"
+            "team":"Toro Rosso",
+            "logo":"https://aurupteur.com/wp-content/uploads/2019/02/Toro-Rosso-logo.jpg"
             },
             {
-            "team":"Williams"
+            "team":"Williams",
+            "logo":"https://pbs.twimg.com/profile_images/681219933787807756/u8--DQjl_400x400.png"
             }
       ]
     }
